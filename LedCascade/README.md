@@ -83,7 +83,7 @@ void loop() {
 ```
 `
 
-Исходный код можно посмотреть по ссылке []
+Исходный код можно посмотреть по ссылке https://github.com/yuvwwa/IoT/blob/main/LedCascade/LedCascade.ino
 
 
 ## 4. Результаты и логика работы
