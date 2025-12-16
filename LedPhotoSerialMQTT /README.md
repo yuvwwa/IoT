@@ -201,9 +201,9 @@ LED_GOES_OFF
 
 ## Визуализация работы
 
-Видео-демонстрацию на реальных микроконтроллерах можно посмотреть по ссылке https://disk.yandex.ru/i/PZH4zk7O8iNzMQ
+Видео-демонстрацию на реальных микроконтроллерах можно посмотреть по ссылке (https://disk.yandex.ru/i/PZH4zk7O8iNzMQ)
 
-Ссылка на tinkercad с работающей симуляцией всей схемы и кода https://www.tinkercad.com/things/8oMkxwk3Q5V-ledphotoserialmqtt
+Ссылка на tinkercad с работающей симуляцией всей схемы и кода (https://www.tinkercad.com/things/8oMkxwk3Q5V-ledphotoserialmqtt?sharecode=6wOY2LXL5lfP6_57sIrXfIrlnnavB1i7opqwTNAl820)
 
 
 ## Итог
