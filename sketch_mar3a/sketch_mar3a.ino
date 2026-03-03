@@ -21,6 +21,29 @@ void move(
   analogWrite(SPEED_2, right_speed);
 }
 
+void forward(int speed){
+  move(FORWARD_LEFT, speed, FORWARD_RIGHT, speed);
+}
+
+void backward(int speed){
+
+}
+
+void turn_left(int steepness){ //крутизна поворота
+
+}
+
+void turn_right(int steepness){ //крутизна поворота
+
+}
+
+void rotate_left(int ){ //
+
+}
+
+void rotate_right(int ){ //
+
+}
 
 void setup() {
   // put your setup code here, to run once:
